@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
+# Vite
+.vite/
+
+# Uploads (optional)
+backend/uploads/
+
+# Java build artifacts
+java-services/out/
+java-services/*.jar
+java-services/sources.txt
+java-services/sources.tmp
